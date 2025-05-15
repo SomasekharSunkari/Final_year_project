@@ -1,0 +1,5 @@
+certificate-verification/
+├── frontend/                 # React frontend
+├── backend/                  # Node.js Express backend
+├── blockchain/               # Solidity smart contract
+└── README.md                 # Project documentation
